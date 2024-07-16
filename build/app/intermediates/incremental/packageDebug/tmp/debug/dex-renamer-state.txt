@@ -1,0 +1,4 @@
+#Wed Jul 17 00:57:22 CEST 2024
+base.0=/Users/moussa/Projects/Flutter/Task Management/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
