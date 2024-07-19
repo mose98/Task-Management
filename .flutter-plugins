@@ -1,0 +1,16 @@
+# This is a generated file; do not edit or check into version control.
+cloud_firestore=/Users/moussa/development/flutter/.pub-cache/hosted/pub.dartlang.org/cloud_firestore-4.14.0/
+cloud_firestore_web=/Users/moussa/development/flutter/.pub-cache/hosted/pub.dartlang.org/cloud_firestore_web-3.9.0/
+firebase_auth=/Users/moussa/development/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_auth-4.16.0/
+firebase_auth_web=/Users/moussa/development/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_auth_web-5.8.13/
+firebase_core=/Users/moussa/development/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_core-2.24.2/
+firebase_core_web=/Users/moussa/development/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_core_web-2.10.0/
+google_sign_in=/Users/moussa/development/flutter/.pub-cache/hosted/pub.dartlang.org/google_sign_in-6.1.4/
+google_sign_in_android=/Users/moussa/development/flutter/.pub-cache/hosted/pub.dartlang.org/google_sign_in_android-6.1.18/
+google_sign_in_ios=/Users/moussa/development/flutter/.pub-cache/hosted/pub.dartlang.org/google_sign_in_ios-5.6.2/
+google_sign_in_web=/Users/moussa/development/flutter/.pub-cache/hosted/pub.dartlang.org/google_sign_in_web-0.12.0+2/
+path_provider=/Users/moussa/development/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider-2.1.0/
+path_provider_android=/Users/moussa/development/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_android-2.1.0/
+path_provider_foundation=/Users/moussa/development/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_foundation-2.3.0/
+path_provider_linux=/Users/moussa/development/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_linux-2.2.0/
+path_provider_windows=/Users/moussa/development/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_windows-2.2.0/
